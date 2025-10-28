@@ -12,7 +12,7 @@
     <h2>About Me</h2>
     <p>My name is <strong>Katherine Clinch</strong>.</p>
     <img src="IMG_3595.JPG" alt="Picture of Katherine outside">
-    <p>I like music, my cat Squirrel, my friends, etc.</p>
+    <p>I like music, my cat <a src="IMG_1966.JPG" target="_blank">Squirrel</a>, my friends, etc.</p>
    </section>
   </main>
  <body>
