@@ -1,0 +1,9 @@
+/*Text Style*/
+
+h1{
+	font-family: 'Merriweather', serif;
+    font-weight: 400;
+    color: #F2865E;
+    margin-top: 2rem;
+    padding: 2rem;
+    text-align: center;
