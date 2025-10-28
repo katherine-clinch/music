@@ -3,11 +3,16 @@
 <html lang="en">
  <head>
   <meta charset="UTF-8"/>
-   <title>KT Music</title>
+   <title>KT Clinch</title>
  </head>
  <body>
   <main>
-   <title>KT Music</title>
+   <h1>KATHERINE CLINCH</h1>
+   <section>
+    <h2>About Me</h2>
+    <p>My name is <strong>Katherine Clinch</strong></p>
+    <img src="file:///Users/katherineclinch/Desktop/IMG_3595.JPG" alt="Picture of Katherine outside">
+   </section>
   </main>
  <body>
 </html>
